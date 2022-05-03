@@ -1,0 +1,6 @@
+API is Application programming interface
+
+What is Rest API with example
+-----> Amazon uses the same list of products for its web application and app
+-----> Amazon has its web API for websites and App API for its Android App
+-----> So Amazon can use the same API for web and app 

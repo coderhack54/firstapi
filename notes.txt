@@ -1,0 +1,36 @@
+npm init -y
+npm install express
+
+
+npm run dev to run the server from nodemon
+
+
+
+
+
+
+
+
+
+Get request =>   1.Data is appended in get request method
+                2.Only textual data can be send
+                3.Data sent is limited.
+
+Post Request =>  1. In post request data is sent in the form of body
+                2.Files can also be sent
+                3.Huge amaount of data can be sent
+
+
+
+                Javascript to JSON
+                ---> JSON.stringify()
+                JSON to Javascript 
+                ---> JSON.parse()
+
+
+
+Important ---->
+
+1.React components always start with capital letter
+
+2.Html tags always are in lowercase letters
